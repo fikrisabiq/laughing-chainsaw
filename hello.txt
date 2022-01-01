@@ -1,12 +1,6 @@
-C
-C++
-C#
-Python
-PHP
-HTML
-CSS
-Javascript
-React
-Laravel
-Codeigniter
-React Native
+Bahasa yang dikuasai:
+- C
+- C++
+- C#
+- Python
+- PHP
