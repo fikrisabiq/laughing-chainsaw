@@ -4,5 +4,5 @@ Bahasa yang dikuasai:
 - C#
 - Python
 - PHP
-React js
 React Native
+Code Igniter
